@@ -7,7 +7,7 @@ The content provided in this blog post is for informational and educational purp
 This protocol is a long protocol that will have to become part of ones daily routine
 
 ### Stretching & Strengthening
-My line manager recommended stretching. (Young et al, 2001) provide figures as shown below of stretches to do (Figures 2-8). Stretching the calves can help loosen the plantar fascia as well as help strengthen it. Doing things such as Dynamic stretching and massaging the plantar fascia can help remove scar tissue and build the connective tissue. \
+My line manager recommended stretching. (Young et al, 2001) provide figures as shown below of stretches to do (Figures 2-8). Stretching the calves can help loosen the plantar fascia as well as help strengthen it. Doing things such as Dynamic stretching and massaging the plantar fascia can help remove scar tissue and build the connective tissue. \\
 ![alt text](image-1.png "Figure 2 - Wall Stretch")
 ![alt text](image-2.png "Figure 3 - Stair Stretch")
 ![alt text](image-3.png "Figure 4 - Heel supported calf stretch.")
