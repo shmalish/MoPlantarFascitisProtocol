@@ -7,16 +7,16 @@ The content provided in this blog post is for informational and educational purp
 This protocol is a long protocol that will have to become part of ones daily routine
 
 ### Stretching & Strengthening
-My line manager recommended stretching. (Young et al, 2001) provide figures as shown below of stretches to do (Figures 2-8). Stretching the calves can help loosen the plantar fascia as well as help strengthen it. Doing things such as Dynamic stretching and massaging the plantar fascia can help remove scar tissue and build the connective tissue. 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
+My line manager recommended stretching. (Young et al, 2001) provide figures as shown below of stretches to do (Figures 2-8). Stretching the calves can help loosen the plantar fascia as well as help strengthen it. Doing things such as Dynamic stretching and massaging the plantar fascia can help remove scar tissue and build the connective tissue. \
+![alt text](image-1.png "Figure 2 - Wall Stretch")
+![alt text](image-2.png "Figure 3 - Stair Stretch")
+![alt text](image-3.png "Figure 4 - Heel supported calf stretch.")
+![alt text](image-4.png "Figure 5 - Stretch with 1 inch plank")
+![alt text](image-5.png "Figure 6 - Roll with can or you can use tennis ball")
+![alt text](image-6.png "Figure 7 - massage with thumb")
+![alt text](image-7.png "Figure 8 - towel stretch")
 
-![Figure 1](image.png)
+![Figure 1](image.png "Figure 1 ")
 
 ### Shoes 
 Consider buying flat feet or high arch feet shoes. If you have flat feet arch taping and buying arch supports can help with flare ups. 
