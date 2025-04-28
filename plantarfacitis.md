@@ -25,15 +25,9 @@ Consider buying flat feet or high arch feet shoes. If you have flat feet arch ta
 You may also want to consider using night splints which are designed to keep your ankle up overnight. This is to prevent the plantar from being flexed while sleeping (as shown in Figure 9)
 ![alt text](image-8.png)
 
-## Drugs - contains WADA banned substances
-I personally do not take any substances for my plantar fascitis because I want to one day compete in sports naturally. 
-### Legal 
-With a doctors supervision and approval, NSAIDS, iontophoresis (electric impluse treatment) and cortisone injections have been shown to be effective in treating plantar fascitis.
 
-### Grey area
-Testosterone injections. You may be able to get a prescription from your doctor if you are hypogonadal. Testosterone and other SARMS / SERMS are banned by WADA so you cannot take this if you are competing. 
 
-BPC-157 is a healing peptide which has been shown to be extremely effective for treating injuries. However, it is not legal to purchase in the UK and is banned by WADA. It also increases the chances of getting cancer. 
+
 
 
 # References
